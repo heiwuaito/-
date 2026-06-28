@@ -1,2 +1,2 @@
-# -
-这是一个实验项目，没有什么价值，单纯是我自己试着玩，用ai编了一个c++的贪吃蛇
+# 
+这是我第一个项目，单纯做着玩的，用claude code做了一个贪吃蛇，仅此而已This is an experimental project with no real value. I'm just messing around and used claude code to write a C++ Snake game
